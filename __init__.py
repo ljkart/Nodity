@@ -1,1 +1,3 @@
-__author__ = 'liju.kunnummal'
+__author__ = 'lijuk'
+
+__all__ = ['app', 'src']
